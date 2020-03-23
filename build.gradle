@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     testImplementation     'junit:junit:4.13'
+    compile group: 'org.graphstream', name: 'gs-ui', version: '1.3'
 }
